@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import MainPage from './pages/MainPage';
 import Footer from './components/Footer';
@@ -25,10 +25,8 @@ function App() {
         <Route path="/components/SignUpPage" element={<div><SignUpPage/></div>} />
         <Route path="/components/GetStarted" element={<div><GetStarted/></div>} />
         <Route path="/pages/HeroSection" element={<div><HeroSection/></div>} />
-        
       </Routes>
       <Footer/>
-
     </Router>
   );
 }
