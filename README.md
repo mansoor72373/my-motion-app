@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# my-motion-app
+**Motion** is an innovative web app offering comprehensive fleet management and factoring solutions. It features real-time vehicle tracking, automated maintenance, fuel management, and compliance monitoring. With route optimization and financial tools, Motion empowers logistics companies to boost efficiency and maintain financial stability.
+>>>>>>> dc5aae1f2bc6f2c95c70b704050d6a7a92e265c2
